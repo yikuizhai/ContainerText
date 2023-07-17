@@ -21,3 +21,7 @@ SATRN          | 0.8849 | 52
 Robust Scanner | 0.8735 | 213  
 ABINet         | 0.8745 | 297  
 SVTR           | 0.8676 | 377  
+
+
+
+The code will be released soon.
